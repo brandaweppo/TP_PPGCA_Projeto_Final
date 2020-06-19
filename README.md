@@ -1,6 +1,4 @@
-# TP_PPGCA_Projeto_Final
-
-## Pesquisa de Design
+# Pesquisa de Design
 
 ## Contextualização
 
