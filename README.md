@@ -6,6 +6,12 @@
 
 <img width="555" alt="Prancheta 1@2x" src="https://user-images.githubusercontent.com/65691783/85179814-3d16ec00-b258-11ea-9ce5-601629770efb.png">
 
+• *Nginx* é um servidor web de alta performance que entrega o conteúdo estático de um site de forma rápida e fácil de configurar. Oferece recursos de balanceamento de cargas, proxy reverso e streaming, além de gerenciar milhares de conexões simultâneas. O resultado disso é maior velocidade e escalabilidade.
+
+• *Python* é uma linguagem de programação de alto nível. Estruturas desse tipo são, geralmente, classificadas como orientadas a objetos. A orientação a objetos é uma forma de programação que busca o controle e a estabilidade de projetos de grandes proporções.
+
+• *PostgreSQL* é um sistema de banco de dados em código aberto para Windows, Mac e Linux. Ele possui mais de 15 anos de desenvolvimento ativo e uma arquitetura que ganhou uma forte reputação devido a sua estabilidade e integridade de dados.
+
 ## Instruções para instalação:
 
 ###### 1. Fazer um diretório local chamado *"trabalho_final"*
