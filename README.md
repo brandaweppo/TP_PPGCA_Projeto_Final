@@ -86,8 +86,8 @@ docker-compose ps
 docker-compose logs -f -t
 ```
 
-###### 17. Para verificar se as informações inseridas na página web estão registradas na base de dados utilizando o comando abaixo, conforme indica a imagem ilustrativa abaixo:
+###### 17. Para verificar se as informações inseridas na página web estão registradas na base de dados utilizando o comando abaixo, conforme indica a imagem ilustrativa logo a seguir.
 ```
 docker-compose exec db psql -U postgres -d solicitacoes -c 'select * from pedidos'
 ```
-
+![Captura de Tela (169)](https://user-images.githubusercontent.com/65691783/85181133-92083180-b25b-11ea-8430-e75bf42803b0.png)
