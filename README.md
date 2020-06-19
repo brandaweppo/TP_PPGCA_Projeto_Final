@@ -8,11 +8,11 @@
 
 ## Instruções para instalação:
 
-###### 1. Fazer um diretório local chamado *"pesquisa_design"*
+###### 1. Fazer um diretório local chamado *"trabalho_final"*
 
 ###### 2. Acessar diretório correspondente
 ```
-cd pesquisa_design/
+cd trabalho_final/
 ```
 
 ###### 3. Criar diretórios da estrutura conforme os comandos abaixo:
@@ -32,10 +32,10 @@ e
 mkdir web
 ```
 
-###### 4. Fazer download do arquivo *"docker-compose"* e inserí-lo dentro da raiz do diretório do projeto, chamado *"pesquisa_design"*:
+###### 4. Fazer download do arquivo *"docker-compose"* e inserí-lo dentro da raiz do diretório do projeto, chamado *"trabalho_final"*:
 
 
-###### 5. Listar diretórios existentes dentro de *pesquisa_design* e verificar se há "app", "nginx", "scripts", "web" e "docker-compose" com o comando abaixo:
+###### 5. Listar diretórios existentes dentro de *"trabalho_final"* e verificar se há "app", "nginx", "scripts", "web" e "docker-compose" com o comando abaixo:
 ```
 ls
 ```
