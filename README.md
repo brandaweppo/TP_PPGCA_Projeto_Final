@@ -81,12 +81,12 @@ docker-compose ps
 
 ![Captura de Tela (168)](https://user-images.githubusercontent.com/65691783/85180793-b7e10680-b25a-11ea-8e6c-935eb8884926.png)
 
-###### 16. Verificar todos os logs do banco de dados estão sendo registrados utilizando o comando abaixo:
+###### 16. Para verificar se todos os logs do banco de dados estão sendo registrados utilizando o comando abaixo:
 ```
 docker-compose logs -f -t
 ```
 
-###### 18. Verificar se as informações inseridas na página web estão registradas na base de dados utilizando o comando abaixo:
+###### 17. Para verificar se as informações inseridas na página web estão registradas na base de dados utilizando o comando abaixo, conforme indica a imagem ilustrativa abaixo:
 ```
 docker-compose exec db psql -U postgres -d solicitacoes -c 'select * from pedidos'
 ```
