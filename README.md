@@ -2,7 +2,7 @@
 
 ## Contextualização
 
-É cada vez mais frequente ver as empresas aproximando produtos e serviços de seus clientes, com o auxílio da tecnologia e ferramentas de processos criativos, como o Design Centrado no Usuário. As empresas já entenderam que somente dessa forma irão garantir uma ótima experiência para seus usuário. A pesquisa é necessária para um projeto de design, pois oferece uma base compartilhada para a tomada de decisões, fundamentada em evidências, e não suposições sobre determinado assunto.
+É cada vez mais frequente ver as empresas aproximando produtos e serviços de seus clientes, com o auxílio da tecnologia e ferramentas de processos criativos, como o Design Centrado no Usuário (processo de design que tem como foco o usuário e a solução de suas necessidades). As empresas já entenderam que somente dessa forma irão garantir uma ótima experiência para seus usuário. A pesquisa é necessária para um projeto de design, pois oferece uma base compartilhada para a tomada de decisões, fundamentada em evidências, e não suposições sobre determinado assunto. Nesse contexto foi desenvolvida uma aplicação que auxiliasse na captura de opiniões dos usuários e as amazenasse em um banco de dados, permitindo consulta posterior.
 
 ###### Containers necessários
 
