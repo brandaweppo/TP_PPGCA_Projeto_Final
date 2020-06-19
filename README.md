@@ -69,21 +69,21 @@ docker-compose down
 docker-compose up -d
 ```
 
-###### 14. Executar o comando abaixo para verificar se os serviços estão ativos, identificados pelo status "up" conforme mostra a imagem logo a seguir:
+###### 13. Executar o comando abaixo para verificar se os serviços estão ativos, identificados pelo status "up" conforme mostra a imagem logo a seguir:
 ```
 docker-compose ps
 ```
 ![Captura de Tela (166)](https://user-images.githubusercontent.com/65691783/85180420-d561a080-b259-11ea-97b6-d696ae6c9780.png)
 
-###### 15. Acessar o navegador web e verificar se a aplicação está no *"localhost"*, conforme mostra a imagem abaixo:
+###### 14. Acessar o navegador web e verificar se a aplicação está no *"localhost"*, conforme mostra a imagem abaixo:
 
 ![Captura de Tela (167)](https://user-images.githubusercontent.com/65691783/85180617-3f7a4580-b25a-11ea-9ee9-9e78a1ff4442.png)
 
-###### 16. Acessar o navegador web e fazer uma teste de formulário, preenchendo os campos e acionando o botão *"Enviar"*, verificando se a resposta preenchidas aparece na própria página do navegador, conforme mostra a imagem abaixo:
+###### 15. Acessar o navegador web e fazer uma teste de formulário, preenchendo os campos e acionando o botão *"Enviar"*, verificando se a resposta preenchidas aparece na própria página do navegador, conforme mostra a imagem abaixo:
 
-![Captura de Tela (65)](https://user-images.githubusercontent.com/65691783/83930584-b7327580-a76e-11ea-8946-2eb63375d13a.png)
+![Captura de Tela (168)](https://user-images.githubusercontent.com/65691783/85180793-b7e10680-b25a-11ea-8e6c-935eb8884926.png)
 
-###### 17. Verificar todos os logs do banco de dados estão sendo registrados utilizando o comando abaixo:
+###### 16. Verificar todos os logs do banco de dados estão sendo registrados utilizando o comando abaixo:
 ```
 docker-compose logs -f -t
 ```
