@@ -2,7 +2,6 @@ version: '3'
 networks:
   db:
   web:
-  #fila:
 services: 
   db: 
     image: postgres:9.6
@@ -11,8 +10,6 @@ services:
     volumes:
       - ./scripts:/scripts
       - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
-      # definir nome diretório backup
-      #- ./pg-banco:/var/lib/postgresql/data
     networks:
       - db
   web:
@@ -37,25 +34,7 @@ services:
     networks:
       - db
       - web
-#      - fila
     depends_on:
       - db
-#      - fila
     environment:
       - DB_NAME=solicitacoes
-#  fila:
-#    image: redis:3.2
-#    networks:
-#      - fila
-#  atendente:
-    #image: python:3.7.2
-#    build: atendente
-#    volumes:
-#      - ./atendente:/atendente
-#    working_dir: /atendente
-    #command: bash ./atendente.sh
-#    command: atendente.py
-#    networks:
-#      - fila
-#    depends_on:
-#      - fila
