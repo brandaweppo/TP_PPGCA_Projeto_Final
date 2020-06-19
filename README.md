@@ -77,9 +77,9 @@ docker-compose ps
 
 ###### 15. Acessar o navegador web e verificar se a aplicação está no *"localhost"*, conforme mostra a imagem abaixo:
 
-![Captura de Tela (62)](https://user-images.githubusercontent.com/65691783/83930336-6f5f1e80-a76d-11ea-9a02-34be99d1ecc7.png)
+![Captura de Tela (167)](https://user-images.githubusercontent.com/65691783/85180617-3f7a4580-b25a-11ea-9ee9-9e78a1ff4442.png)
 
-###### 16. Acessar o navegador web e fazer uma teste de formulário, preenchendo os campos e acionando o botão *"Enviar"*, verificar se os títulos dos campos e as respostas preenchidas aparecem na própria página do *"localhost"*, conforme mostra a imagem abaixo:
+###### 16. Acessar o navegador web e fazer uma teste de formulário, preenchendo os campos e acionando o botão *"Enviar"*, verificando se a resposta preenchidas aparece na própria página do navegador, conforme mostra a imagem abaixo:
 
 ![Captura de Tela (65)](https://user-images.githubusercontent.com/65691783/83930584-b7327580-a76e-11ea-8946-2eb63375d13a.png)
 
